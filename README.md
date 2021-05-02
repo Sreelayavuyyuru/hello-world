@@ -70,4 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
  
  ### Always push into github repo if made any changes
-  
+
+    1. git add .
+        This is to add the changes made inside the hello-world folder
+    2. git commit -m "the-message-you-want-type"
+        This commits the changed files
+    3. git push 
+        This pushes all the changes into the repository
